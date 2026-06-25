@@ -1,6 +1,8 @@
 # ad.test
 Anderson-Darling k-Sample Test Use ad.test (kSamples) With (In) R Software
 
+https://www.youtube.com/watch?v=EuuO2UW8AZ8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
